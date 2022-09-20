@@ -1,6 +1,6 @@
 # Pokedex
 
-Pokedex is a Android application that works like an Pokedex from the Pokemon world. It contains detailed data on every single Pokémon
+Pokedex is a Android application with Kotlin, that works like an Pokedex from the Pokemon world. It contains detailed data on every single Pokémon
 
 ## Installation
 
